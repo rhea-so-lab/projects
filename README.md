@@ -2,6 +2,7 @@
 
 | **Name** | **Description** | **URL**|
 |:--------:|:--------:|:--------:|
+| infrastructure-as-a-code | Terraform + Atlantis를 익히기 위해 만듦 | https://github.com/rhea-so-lab/infrastructure-as-code |
 | todo | GraphQL CRUD를 익히기 위해 만듦 | https://rhea-so-lab-todo.herokuapp.com/graphql |
 | todo-with-auth | GraphQL Guards & JWT & Passport를 사용해 사용자 인증을 하는 법을 익히기 위해 만듦  | https://rhea-so-lab-todo-with-auth.herokuapp.com/graphql |
 | chat | GraphQL Subscription을 사용해보려고 만듦 | https://rhea-so-lab-chat.herokuapp.com |
