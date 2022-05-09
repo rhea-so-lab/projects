@@ -1,5 +1,7 @@
 # projects
 
+## Services
+
 | **Name** | **Description** | **URL**|
 |:--------:|:--------:|:--------:|
 | infrastructure-as-a-code | Terraform + Atlantis를 익히기 위해 만듦 | https://github.com/rhea-so-lab/infrastructure-as-code |
@@ -11,4 +13,8 @@
 | graphql-client | 브라우저에서 쓸만한 GraphQL Client 라이브러리가 없어서 만듦 | https://github.com/rhea-so-lab/graphql-client |
 | military-service-companies-ranking | 원하는 직장을 좀 더 빠르게 찾을 수 있도록 도와주는 랭킹 서비스 | https://rhea-so-lab-military-companies.herokuapp.com |
 
-> Git Repository들은 기본적으로 비공개 중 입니다.  
+## Modules
+
+| **Name** | **Description** | **URL**|
+|:--------:|:--------:|:--------:|
+| env-typescript | .env을 보다 안전하게 불러오는 모듈 | https://github.com/rhea-so-lab/env-typescript |
